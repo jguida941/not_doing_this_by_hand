@@ -1,0 +1,79 @@
+
+# Python crap
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+.ENV/
+env.bak/
+venv.bak/
+
+# IDE crap
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+.spyproject
+.ropeproject
+.DS_Store
+.settings/
+.classpath
+.project
+
+# Distribution crap
+dist/
+build/
+*.egg-info/
+wheels/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook crap
+.ipynb_checkpoints
+
+# Local config crap
+*.env
+.env.*
+config.local.ini
+local_settings.py
+
+# Log files
+logs/
+*.log
+npm-debug.log*
+
+# Database files
+*.db
+*.sqlite3
+db.sqlite3-journal
+
+# OS generated crap
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Assignment crap - I'm not sharing my answers
+submissions/
+completed_assignments/
+homework_answers/
+quiz_solutions/
+# created by virtualenv automatically
+.venv/bin
