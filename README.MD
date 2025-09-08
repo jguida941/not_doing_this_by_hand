@@ -62,7 +62,6 @@ If it helps you get through tedious math assignments faster, that's all that mat
 
 - Thanks to the math professors who refuse to update their curriculum for the computer age, forcing students to waste time on calculations that should be automated
 - Thanks to Python for having a math library so I don't have to implement this myself
-- Thanks to AI for helping generate some of this code so I can focus on useful skills
 
 ## Disclaimer
 
