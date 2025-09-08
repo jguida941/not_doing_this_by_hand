@@ -1,4 +1,4 @@
-# BullshitAssMath Tools
+# not_doing_this_by_hand
 
 A collection of tools to automate tedious discrete math busywork so I don't have to waste time with it.
 
